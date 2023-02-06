@@ -1,2 +1,1 @@
-Hello, Hexlet
-experiment with amend
+My first Hexlet project
